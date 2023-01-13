@@ -4,11 +4,5 @@
 
 ## Блок-схема алгоритма
 
-
-<style>
-    .aligncenter {
-    text-align: center;
-}
-</style>
 <p style = "text-align: center;"><img src = "Diagramm.svg" width="600"></p>
 
